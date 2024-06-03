@@ -15,7 +15,7 @@ function passcheck() {
       
         window.location.href = "index2.html";
    
-    } else if (password === "karina") {
+    } else if (password === "rep2") {
       
         window.location.href = "index5.html";
    
