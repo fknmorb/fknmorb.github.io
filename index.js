@@ -14,7 +14,13 @@ function passcheck() {
     if (password === "xxx") {
       
         window.location.href = "index2.html";
+   
+    } else if (password === "karina") {
+      
+        window.location.href = "index5.html";
+   
     } else {
         alert("Contraseña incorrecta");
     }
 }
+
