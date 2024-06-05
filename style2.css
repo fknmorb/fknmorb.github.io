@@ -1,22 +1,41 @@
 .camgirl {
+    margin-top: 10%;
+    margin-left: 20%;
+}
 
-margin-top: 335px;
-margin-left: 360px;
-
-    
+.vide2 {
+    margin-top: 10px;
 }
 
 
-    .vide2 {
 
-margin-top: 10px;
+.DRTT {
+    margin-top: -64%;
+    margin-left: 57%;
+}
 
+.DRT {
+    margin-top: 0;
+    margin-left: -2%;
+}
 
+#ip {
+    color: red;
+    margin-top: 7.5%;
+    margin-left: 71.8%;
+    animation: ip-blink 2s linear infinite;
+}
+
+@keyframes ip-blink { 
+    50% {
+        opacity: 0;
     }
+}
 
 
-    .button {
+.PC {
+    margin-top: -32%;
+    margin-left: 49%;
+    
+}
 
-        margin-bottom: 400px;
-
-    }
